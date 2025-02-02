@@ -1,0 +1,207 @@
+{
+    "drugs": [
+        {
+            "name": "Atorvastatin",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328040/",
+                "https://www.webmd.com/drugs/2/drug-6989/atorvastatin-oral/details"
+            ]
+        },
+        {
+            "name": "Metformin",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1434405/",
+                "https://www.webmd.com/drugs/2/drug-5540/metformin-oral/details"
+            ]
+        },
+        {
+            "name": "Lisinopril",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5781999/",
+                "https://www.webmd.com/drugs/2/drug-1150/lisinopril-oral/details"
+            ]
+        },
+        {
+            "name": "Levothyroxine",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5244215/",
+                "https://www.webmd.com/drugs/2/drug-5422/levothyroxine-oral/details"
+            ]
+        },
+        {
+            "name": "Amlodipine",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4570789/",
+                "https://www.webmd.com/drugs/2/drug-2203/amlodipine-oral/details"
+            ]
+        },
+        {
+            "name": "Omeprazole",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1404443/",
+                "https://www.webmd.com/drugs/2/drug-5300/omeprazole-oral/details"
+            ]
+        },
+        {
+            "name": "Losartan",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360310/",
+                "https://www.webmd.com/drugs/2/drug-2274/losartan-oral/details"
+            ]
+        },
+        {
+            "name": "Sertraline",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181639/",
+                "https://www.webmd.com/drugs/2/drug-15947/sertraline-oral/details"
+            ]
+        },
+        {
+            "name": "Aspirin",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1282641/",
+                "https://www.webmd.com/drugs/2/drug-221/aspirin-oral/details"
+            ]
+        },
+        {
+            "name": "Hydrochlorothiazide",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1494989/",
+                "https://www.webmd.com/drugs/2/drug-1791/hydrochlorothiazide-oral/details"
+            ]
+        },
+        {
+            "name": "Simvastatin",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328040/",
+                "https://www.webmd.com/drugs/2/drug-6989/simvastatin-oral/details"
+            ]
+        },
+        {
+            "name": "Fluoxetine",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1434636/",
+                "https://www.webmd.com/drugs/2/drug-1593/fluoxetine-oral/details"
+            ]
+        },
+        {
+            "name": "Clopidogrel",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951696/",
+                "https://www.webmd.com/drugs/2/drug-217/clopidogrel-oral/details"
+            ]
+        },
+        {
+            "name": "Furosemide",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1372476/",
+                "https://www.webmd.com/drugs/2/drug-2483/furosemide-oral/details"
+            ]
+        },
+        {
+            "name": "Warfarin",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3241007/",
+                "https://www.webmd.com/drugs/2/drug-157/warfarin-oral/details"
+            ]
+        },
+        {
+            "name": "Alprazolam",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1477320/",
+                "https://www.webmd.com/drugs/2/drug-284/alprazolam-oral/details"
+            ]
+        },
+        {
+            "name": "Prednisone",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1688533/",
+                "https://www.webmd.com/drugs/2/drug-5039/prednisone-oral/details"
+            ]
+        },
+        {
+            "name": "Tamsulosin",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1716947/",
+                "https://www.webmd.com/drugs/2/drug-6998/tamsulosin-oral/details"
+            ]
+        },
+        {
+            "name": "Losartan",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360310/",
+                "https://www.webmd.com/drugs/2/drug-2274/losartan-oral/details"
+            ]
+        },
+        {
+            "name": "Gabapentin",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629176/",
+                "https://www.webmd.com/drugs/2/drug-249/gabapentin-oral/details"
+            ]
+        },
+        {
+            "name": "Levothyroxine",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5244215/",
+                "https://www.webmd.com/drugs/2/drug-5422/levothyroxine-oral/details"
+            ]
+        },
+        {
+            "name": "Doxycycline",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4565249/",
+                "https://www.webmd.com/drugs/2/drug-3929/doxycycline-oral/details"
+            ]
+        },
+        {
+            "name": "Azithromycin",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3109982/",
+                "https://www.webmd.com/drugs/2/drug-1650/azithromycin-oral/details"
+            ]
+        },
+        {
+            "name": "Acetaminophen",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3280164/",
+                "https://www.webmd.com/drugs/2/drug-173/aceta-oral/details"
+            ]
+        },
+        {
+            "name": "Ibuprofen",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894670/",
+                "https://www.webmd.com/drugs/2/drug-1582/ibuprofen-oral/details"
+            ]
+        },
+        {
+            "name": "Omeprazole",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1404443/",
+                "https://www.webmd.com/drugs/2/drug-5300/omeprazole-oral/details"
+            ]
+        },
+        {
+            "name": "Loratadine",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1688533/",
+                "https://www.webmd.com/drugs/2/drug-2494/loratadine-oral/details"
+            ]
+        },
+        {
+            "name": "Metoprolol",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3053509/",
+                "https://www.webmd.com/drugs/2/drug-2131/metoprolol-oral/details"
+            ]
+        },
+        {
+            "name": "Methylprednisolone",
+            "sources": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4764302/",
+                "https://www.webmd.com/drugs/2/drug-187/methylprednisolone-oral/details"
+            ]
+        }
+    ]
+}

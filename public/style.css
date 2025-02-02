@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+body {
+    background-color: #c7c7cc;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: #313131;
+}
+
+.search-container {
+    margin-bottom: 20px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+} 
+
+.search-container input {
+    background-color: #f5f5f7;
+    font-size: 22px;
+    padding: 8px 12px;
+    border-radius: 20px;
+    border: 2px solid #939394;
+    color: #313131;
+    width: 100%;
+}
+
+.search-container a {
+    background-color: #f5f5f7;
+    color: #939394;
+    font-size: 22px;
+    border-radius: 30px;
+    padding: 9px 12px;
+    border: 2px solid #939394;
+    transition: 0.1s;
+}
+.search-container a:hover {
+    background-color: #216ee2;
+    color: #f5f5f7;
+    border: 2px solid #216ee2;
+}
+
+
+.drug-details-container {
+    display: none;
+    background-color: #f5f5f7;
+    border-radius: 20px;
+    padding: 20px 30px;
+    border: 2px solid #939394;
+} 
+.drug-details-container h2 {
+    color: #313131;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.lists {
+    padding-left: 40px;
+}
+
+.drug-details-container h3 {
+    font-size: 28px;
+}
+
+.pros-head {
+    color: green;
+    margin-bottom: 12px;;
+}
+
+.cons-head {
+    color: darkred;
+    margin-bottom: 12px;;
+}
+
+.warning-head {
+    color: goldenrod;
+    margin-bottom: 12px;
+}
+
+.drug-details-container ul {
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 40px;
+    list-style-type: circle;
+    margin-bottom: 20px;
+    color: #313131;
+}
+.drug-details-container ul li {
+    margin-bottom: 12px;
+}
+
+.sources-btn {
+    color: #313131;
+    font-size: 18px;
+    font-weight: 500;
+    transition: 0.1s;
+}
+.sources-btn:hover  {
+    color: #216ee2;
+}
+
+.sources-list li a {
+    color: #939394;
+    transition: 0.1s;
+}
+.sources-list li a:hover {
+    color: #216ee2
+}
+
+.sources-list li a:visited {
+    color: purple;
+}

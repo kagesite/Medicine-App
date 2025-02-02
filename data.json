@@ -1,0 +1,382 @@
+{
+    "drugs": [
+        {
+            "name": "Atorvastatin",
+            "pros": [
+                "Lowers LDL cholesterol levels",
+                "Reduces risk of heart attack and stroke",
+                "Generally well-tolerated with once-daily dosing"
+            ],
+            "cons": [
+                "Potential for muscle pain or weakness",
+                "May cause liver enzyme elevations",
+                "Possible interactions with certain foods and medications"
+            ],
+            "avoid": [
+                "Gemfibrozil",
+                "Clarithromycin",
+                "Itraconazole"
+            ]
+        },
+        {
+            "name": "Metformin",
+            "pros": [
+                "Helps control blood sugar levels in type 2 diabetes",
+                "Associated with weight neutrality or modest weight loss",
+                "Low risk of hypoglycemia when used alone"
+            ],
+            "cons": [
+                "Gastrointestinal side effects like nausea and diarrhea",
+                "Risk of vitamin B12 deficiency with long-term use",
+                "Rare risk of lactic acidosis"
+            ],
+            "avoid": [
+                "Alcohol",
+                "Iodinated contrast media",
+                "Cimetidine"
+            ]
+        },
+        {
+            "name": "Lisinopril",
+            "pros": [
+                "Effectively lowers blood pressure",
+                "Improves survival rates in heart failure patients",
+                "Protects kidney function in diabetic patients"
+            ],
+            "cons": [
+                "Can cause a persistent dry cough",
+                "Risk of elevated blood potassium levels",
+                "May impair kidney function in some individuals"
+            ],
+            "avoid": [
+                "Potassium supplements or potassium-sparing diuretics",
+                "NSAIDs",
+                "Aliskiren"
+            ]
+        },
+        {
+            "name": "Levothyroxine",
+            "pros": [
+                "Effectively treats hypothyroidism",
+                "Improves symptoms like fatigue and weight gain",
+                "Once-daily dosing due to long half-life"
+            ],
+            "cons": [
+                "Requires regular blood tests to monitor thyroid levels",
+                "Dosing adjustments may be necessary",
+                "Potential for side effects if dosed incorrectly"
+            ],
+            "avoid": [
+                "Calcium supplements or antacids",
+                "Iron supplements",
+                "Cholestyramine"
+            ]
+        },
+        {
+            "name": "Amlodipine",
+            "pros": [
+                "Effectively lowers blood pressure",
+                "Relieves chest pain (angina)",
+                "Once-daily dosing with a long duration of action"
+            ],
+            "cons": [
+                "May cause swelling in the legs and ankles",
+                "Potential for dizziness or lightheadedness",
+                "Possible interaction with grapefruit juice"
+            ],
+            "avoid": [
+                "Simvastatin",
+                "Clarithromycin",
+                "Cyclosporine"
+            ]
+        },
+        {
+            "name": "Omeprazole",
+            "pros": [
+                "Reduces stomach acid production",
+                "Effective for GERD and ulcers",
+                "Once-daily dosing"
+            ],
+            "cons": [
+                "May cause headache or nausea",
+                "Potential for vitamin B12 deficiency with long-term use",
+                "Risk of rebound acid hypersecretion"
+            ],
+            "avoid": [
+                "Clopidogrel",
+                "Ketoconazole",
+                "Iron supplements"
+            ]
+        },
+        {
+            "name": "Losartan",
+            "pros": [
+                "Lowers blood pressure",
+                "Reduces risk of stroke",
+                "Protects kidney function in diabetes patients"
+            ],
+            "cons": [
+                "May cause dizziness",
+                "Potential for elevated potassium levels",
+                "Possible interaction with NSAIDs"
+            ],
+            "avoid": [
+                "Potassium supplements",
+                "Lithium",
+                "NSAIDs"
+            ]
+        },
+        {
+            "name": "Sertraline",
+            "pros": [
+                "Effective for depression and anxiety",
+                "Fewer side effects compared to older antidepressants",
+                "Available in multiple dosing strengths"
+            ],
+            "cons": [
+                "May cause nausea or insomnia",
+                "Risk of sexual dysfunction",
+                "Possible withdrawal symptoms if stopped abruptly"
+            ],
+            "avoid": [
+                "MAO inhibitors",
+                "Pimozide",
+                "Alcohol"
+            ]
+        },
+        {
+            "name": "Aspirin",
+            "pros": [
+                "Reduces pain, fever, and inflammation",
+                "Prevents blood clots, reducing stroke and heart attack risk",
+                "Widely available over-the-counter"
+            ],
+            "cons": [
+                "May cause stomach ulcers or bleeding",
+                "Can lead to gastrointestinal issues",
+                "Risk of bleeding complications"
+            ],
+            "avoid": [
+                "Alcohol",
+                "NSAIDs",
+                "Warfarin"
+            ]
+        },
+        {
+            "name": "Hydrochlorothiazide",
+            "pros": [
+                "Effective diuretic for controlling high blood pressure",
+                "Helps reduce swelling from conditions like heart failure",
+                "Inexpensive and widely prescribed"
+            ],
+            "cons": [
+                "May cause dehydration or electrolyte imbalances",
+                "Risk of increased blood sugar in some individuals",
+                "Can cause dizziness or lightheadedness"
+            ],
+            "avoid": [
+                "Lithium",
+                "NSAIDs",
+                "Corticosteroids"
+            ]
+        },
+        {
+            "name": "Simvastatin",
+            "pros": [
+                "Reduces LDL cholesterol levels",
+                "Decreases risk of heart attack and stroke",
+                "Effective at reducing overall cardiovascular risk"
+            ],
+            "cons": [
+                "Can cause muscle pain or weakness",
+                "May elevate liver enzymes",
+                "Risk of interaction with certain drugs"
+            ],
+            "avoid": [
+                "Gemfibrozil",
+                "Clarithromycin",
+                "Itraconazole"
+            ]
+        },
+        {
+            "name": "Fluoxetine",
+            "pros": [
+                "Treats depression, anxiety, and OCD",
+                "Long half-life, reducing need for frequent dosing",
+                "Has fewer sedative effects compared to other antidepressants"
+            ],
+            "cons": [
+                "May cause insomnia or anxiety",
+                "Possible sexual dysfunction",
+                "Risk of serotonin syndrome if combined with certain drugs"
+            ],
+            "avoid": [
+                "MAO inhibitors",
+                "Pimozide",
+                "Alcohol"
+            ]
+        },
+        {
+            "name": "Clopidogrel",
+            "pros": [
+                "Prevents blood clots",
+                "Decreases risk of stroke and heart attack",
+                "Widely used post-stroke or heart attack"
+            ],
+            "cons": [
+                "May cause gastrointestinal bleeding",
+                "Risk of bruising or bleeding",
+                "Interaction with certain proton pump inhibitors"
+            ],
+            "avoid": [
+                "Omeprazole",
+                "Cimetidine",
+                "Aspirin"
+            ]
+        },
+        {
+            "name": "Furosemide",
+            "pros": [
+                "Treats edema and high blood pressure",
+                "Effective diuretic for heart failure patients",
+                "Reduces fluid buildup in lungs or legs"
+            ],
+            "cons": [
+                "Can cause dehydration or electrolyte imbalance",
+                "May cause dizziness or lightheadedness",
+                "Risk of kidney damage with prolonged use"
+            ],
+            "avoid": [
+                "Lithium",
+                "NSAIDs",
+                "Aminoglycosides"
+            ]
+        },
+        {
+            "name": "Warfarin",
+            "pros": [
+                "Prevents blood clots in conditions like atrial fibrillation",
+                "Can be reversed with vitamin K in case of overdose",
+                "Effective long-term anticoagulant"
+            ],
+            "cons": [
+                "Requires frequent monitoring of blood clotting",
+                "Risk of bleeding complications",
+                "Numerous food and drug interactions"
+            ],
+            "avoid": [
+                "Aspirin",
+                "NSAIDs",
+                "Vitamin K-rich foods"
+            ]
+        },
+        {
+            "name": "Alprazolam",
+            "pros": [
+                "Effective for treating anxiety and panic disorders",
+                "Fast-acting with noticeable relief",
+                "Short-term use may prevent anxiety episodes"
+            ],
+            "cons": [
+                "Risk of dependence and withdrawal symptoms",
+                "Can cause drowsiness or dizziness",
+                "Risk of overdose when combined with alcohol"
+            ],
+            "avoid": [
+                "Alcohol",
+                "MAO inhibitors",
+                "Cimetidine"
+            ]
+        },
+        {
+            "name": "Prednisone",
+            "pros": [
+                "Anti-inflammatory and immune-suppressing effects",
+                "Effective for conditions like asthma, arthritis, and autoimmune diseases",
+                "Can improve symptoms rapidly"
+            ],
+            "cons": [
+                "Long-term use can cause weight gain, osteoporosis, and diabetes",
+                "Can cause fluid retention or high blood pressure",
+                "May suppress the immune system"
+            ],
+            "avoid": [
+                "NSAIDs",
+                "Live vaccines",
+                "Corticosteroids"
+            ]
+        },
+        {
+            "name": "Tamsulosin",
+            "pros": [
+                "Helps with urinary symptoms in benign prostatic hyperplasia",
+                "Relieves symptoms like frequent urination and urgency",
+                "Low risk of side effects compared to other alpha blockers"
+            ],
+            "cons": [
+                "May cause dizziness or fainting",
+                "Can cause sexual dysfunction",
+                "Risk of allergic reactions"
+            ],
+            "avoid": [
+                "Cimetidine",
+                "Alpha-adrenergic blockers",
+                "Fluoxetine"
+            ]
+        },
+        {
+            "name": "Losartan",
+            "pros": [
+                "Lowers blood pressure",
+                "Reduces risk of stroke",
+                "Protects kidney function in diabetes patients"
+            ],
+            "cons": [
+                "May cause dizziness",
+                "Potential for elevated potassium levels",
+                "Possible interaction with NSAIDs"
+            ],
+            "avoid": [
+                "Potassium supplements",
+                "Lithium",
+                "NSAIDs"
+            ]
+        },
+        {
+            "name": "Gabapentin",
+            "pros": [
+                "Effective for nerve pain and seizures",
+                "Used off-label for anxiety and insomnia",
+                "Good for neuropathic pain management"
+            ],
+            "cons": [
+                "Can cause dizziness or drowsiness",
+                "May cause weight gain",
+                "Potential for misuse or addiction"
+            ],
+            "avoid": [
+                "Opioids",
+                "Alcohol",
+                "CNS depressants"
+            ]
+        },
+        {
+            "name": "Levothyroxine",
+            "pros": [
+                "Effectively treats hypothyroidism",
+                "Improves symptoms like fatigue and weight gain",
+                "Once-daily dosing due to long half-life"
+            ],
+            "cons": [
+                "Requires regular blood tests to monitor thyroid levels",
+                "Dosing adjustments may be necessary",
+                "Potential for side effects if dosed incorrectly"
+            ],
+            "avoid": [
+                "Calcium supplements or antacids",
+                "Iron supplements",
+                "Cholestyramine"
+            ]
+        }
+    ]
+}
